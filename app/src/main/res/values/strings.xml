@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">YT Boxing</string>
+
+    <string name="affirmation10">Each day is a new opportunity to grow and be a better version of myself.</string>
+    <string name="affirmation4">Every challenge in my life is an opportunity to learn from.</string>
+    <string name="affirmation5">I have so much to be grateful for.</string>
+    <string name="affirmation6">Good things are always coming into my life.</string>
+    <string name="affirmation7">New opportunities await me at every turn.</string>
+    <string name="affirmation8">I have the courage to follow my heart.</string>
+    <string name="affirmation9">Things will unfold at precisely the right time.</string>
+
+    <string name="boxer01">KSI.</string>
+    <string name="boxer02">Jake Paul.</string>
+    <string name="boxer03">Salt Papi</string>
+    <string name="boxer04">Deji</string>
+    <string name="boxer05">Tommy Fury</string>
+    <string name="boxer06">Slim Albaher</string>
+
+
+    <string name="score01">5-1-1</string>
+    <string name="score02">3-2-0</string>
+    <string name="score03">8-3-1</string>
+    <string name="score04">2-4-1</string>
+    <string name="score05">10-0-1</string>
+    <string name="score06">7-0-0</string>
+
+    <string name="scoreText">Skor:</string>
+
+    //radio
+    <string name="checked">checked</string>
+    <string name="unchecked">unchecked</string>
+    <string name="RD_01">Male Fighther</string>
+    <string name="RD_02">Female Fighther</string>
+
+    //spinner
+    <string-array name="Boxers">
+        <item>anesongib</item>
+        <item>bryce_hall</item>
+        <item>deji</item>
+        <item>jake_paul</item>
+        <item>ksi</item>
+        <item>salt_papi</item>
+        <item>slim_albaher</item>
+        <item>swarmz</item>
+        <item>tommy_fury</item>
+        <item>walid_sharks</item>
+    </string-array>
+
+
+</resources>
