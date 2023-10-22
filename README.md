@@ -1,4 +1,4 @@
-# Affirmation-App
+# YTBoxing-App Kotlin Android Studio
 Kotlin scrollable display Beginner project
 <p><img align="center" alt="YT Boxing APK" width="400" src=""<p/>
   <p>
